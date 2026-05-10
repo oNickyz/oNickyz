@@ -16,7 +16,7 @@ Atualmente divido minha vida entre:
 - ☕ sobreviver
 
 Curto bastante:
-- cyberpunk
+- putaria
 - música
 - programação
 - storytelling
