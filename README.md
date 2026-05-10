@@ -16,7 +16,7 @@ Atualmente divido minha vida entre:
 - ☕ sobreviver
 
 Curto bastante:
-- putaria
+- ideias
 - música
 - programação
 - storytelling
