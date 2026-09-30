@@ -1,6 +1,6 @@
 # Yo, eu sou o Nickyz 👋
 
-🎓 Estudante da Turma ITA  
+🎓 Estudante STEM
 🎵 Produtor Musical • Compositor • Mix/Master Engineer  
 📍 Fortaleza, Ceará - Brasil  
 
