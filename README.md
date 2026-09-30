@@ -1,8 +1,8 @@
 # Yo, eu sou o Nickyz 👋
 
-🎓 Estudante STEM
-🎵 Produtor Musical • Compositor • Mix/Master Engineer  
-📍 Fortaleza, Ceará - Brasil  
+- 🎓 Estudante STEM
+- 🎵 Produtor Musical • Compositor • Mix/Master Engineer  
+- 📍 Fortaleza, Ceará - Brasil  
 
 ---
 
