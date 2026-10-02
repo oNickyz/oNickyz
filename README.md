@@ -39,7 +39,7 @@ nickyz@fortaleza:~$ status
 | 🎤 **Lil Megz** | 🎤 **Noiri** |
 |:---:|:---:|
 | *"Fragmentos"* | *"Iminência"* |
-| [![Ouvir](https://img.shields.io/badge/▶_OUVIR-6D28D9?style=for-the-badge)](https://somvibe.lnk.to/ab53922) | [![Ouvir](https://img.shields.io/badge/▶_OUVIR-6D28D9?style=for-the-badge)](https://somvibe.lnk.to/sg536496) |
+| [![Ouvir](https://img.shields.io/badge/▶_OUVIR-6D28D9?style=for-the-badge)](https://youtu.be/VOZWXt1JQfk) | [![Ouvir](https://img.shields.io/badge/▶_OUVIR-6D28D9?style=for-the-badge)](https://youtu.be/qv2uAFw2lDE) |
 
 </div>
 
