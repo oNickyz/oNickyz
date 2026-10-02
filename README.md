@@ -87,7 +87,7 @@ Dois projetos, duas vibes:
 [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=fff)](https://www.twitch.tv/megazytb)
 [![YouTube](https://img.shields.io/badge/ImNickyz-FF0000?style=for-the-badge&logo=youtube&logoColor=fff)](https://youtube.com/@nickyz.mp4)
 [![YouTube](https://img.shields.io/badge/Lil_Megz-FF0000?style=for-the-badge&logo=youtube&logoColor=fff)](https://www.youtube.com/@olilmegz)
-[![YouTube](https://img.shields.io/badge/Gameplays-FF0000?style=for-the-badge&logo=youtube&logoColor=fff)](https://youtube.com/@megazytb)
+[![YouTube](https://img.shields.io/badge/MEGAzYTB-FF0000?style=for-the-badge&logo=youtube&logoColor=fff)](https://youtube.com/@megazytb)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=fff)](https://www.instagram.com/megazytb/)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=fff)](https://x.com/onickyz)
 [![PixGG](https://img.shields.io/badge/PixGG-apoie-7C3AED?style=for-the-badge)](https://pixgg.com/megazytb)
