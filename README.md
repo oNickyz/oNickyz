@@ -32,7 +32,7 @@ nickyz@fortaleza:~$ status
 > ☕ sobrevivendo. com estilo.
 ```
 
-## 🎧 Último lançamento
+## 🎧 Últimos lançamentos (até 02/10/26)
 
 <div align="center">
 
