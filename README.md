@@ -55,6 +55,8 @@ Dois projetos, duas vibes:
 |---|---|---|
 | 📻 [**MEGAzFM**](https://onickyz.github.io/MEGAzFM-Site/) | rádio 24/7 pra Discord, com estações de MP3 e streams. Open source | [site](https://onickyz.github.io/MEGAzFM-Site/) · [código](https://github.com/oNickyz/MEGAzFM-DCBot) |
 | 🤖 **MEGAzLand** | bot de Discord multifunção: moderação, economia, tickets e música | em desenvolvimento |
+| 🌌 **NestHorizons** | Um ninho de horizontes a espera de editores... | em desenvolvimento |
+
 
 ## 🧰 Arsenal
 
