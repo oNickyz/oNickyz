@@ -55,6 +55,7 @@ Dois projetos, duas vibes:
 |---|---|---|
 | 📻 [**MEGAzFM**](https://onickyz.github.io/MEGAzFM-Site/) | rádio 24/7 pra Discord, com estações de MP3 e streams. Open source | [site](https://onickyz.github.io/MEGAzFM-Site/) · [código](https://github.com/oNickyz/MEGAzFM-DCBot) |
 | 🤖 **MEGAzLand** | bot de Discord multifunção: moderação, economia, tickets e música | em desenvolvimento |
+| 🖼️ [**Twitch Asset Resizer**](https://onickyz.github.io/TwitchAssetResizer/) | redimensiona sua arte pros tamanhos de emotes, badges, banners e painéis da Twitch, direto no navegador, sem instalar nada. Open source | [site](https://onickyz.github.io/TwitchAssetResizer/) · [código](https://github.com/oNickyz/TwitchAssetResizer) |
 | 🌌 **NestHorizons** | Um ninho de horizontes a espera de editores... | em desenvolvimento |
 
 
