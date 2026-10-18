@@ -3,9 +3,16 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:2E1065,50:6D28D9,100:A78BFA&text=NICKYZ&fontSize=80&fontColor=ffffff&fontAlignY=38&desc=produtor%20%C2%B7%20cantor%20%C2%B7%20editor%20%C2%B7%20dev&descSize=18&descAlignY=60&animation=fadeIn" width="100%" alt="Nickyz" />
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=800&color=C4B5FD&center=true&vCenter=true&width=640&lines=fechei+o+master%2C+abri+o+VS+Code;3h+da+manh%C3%A3%3A+%C3%A9+o+kick+ou+o+bug%3F;quest%C3%A3o+de+f%C3%ADsica+entre+um+beat+e+outro;projeto+novo+antes+de+terminar+o+antigo">
-  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=800&color=6D28D9&center=true&vCenter=true&width=640&lines=fechei+o+master%2C+abri+o+VS+Code;3h+da+manh%C3%A3%3A+%C3%A9+o+kick+ou+o+bug%3F;quest%C3%A3o+de+f%C3%ADsica+entre+um+beat+e+outro;projeto+novo+antes+de+terminar+o+antigo">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=800&color=6D28D9&center=true&vCenter=true&width=640&lines=fechei+o+master%2C+abri+o+VS+Code;3h+da+manh%C3%A3%3A+%C3%A9+o+kick+ou+o+bug%3F" alt="typing" />
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=800&color=C4B5FD&center=true&vCenter=true&width=640&lines=Fazendo+uns+projetos+aleat%C3%B3rios+na+net+ai;Provavelmente+vagabundando+no+momento;Segue+no+insta%3A+%40megazytb">
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=800&color=6D28D9&center=true&vCenter=true&width=640&lines=Fazendo+uns+projetos+aleat%C3%B3rios+na+net+ai;Provavelmente+vagabundando+no+momento;Segue+no+insta%3A+%40megazytb">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=800&color=6D28D9&center=true&vCenter=true&width=640&lines=Fazendo+uns+projetos+aleat%C3%B3rios+na+net+ai;Provavelmente+vagabundando+no+momento;Segue+no+insta%3A+%40megazytb"
+    alt="Fazendo uns projetos aleatórios na net ai; Provavelmente vagabundando no momento; Segue no insta: @megazytb"
+/>
 </picture>
 
 ![Fortaleza](https://img.shields.io/badge/📍_Fortaleza-CE-7C3AED?style=for-the-badge)
