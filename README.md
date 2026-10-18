@@ -32,14 +32,14 @@ nickyz@fortaleza:~$ status
 > ☕ sobrevivendo. com estilo.
 ```
 
-## 🎧 Últimos lançamentos (até 02/10/26)
+## 🎧 Últimos lançamentos (até 18/10/26)
 
 <div align="center">
 
 | 🎤 **Lil Megz** | 🎤 **Noiri** |
 |:---:|:---:|
-| *"Fragmentos"* | *"Iminência"* |
-| [![Ouvir](https://img.shields.io/badge/▶_OUVIR-6D28D9?style=for-the-badge)](https://youtu.be/VOZWXt1JQfk) | [![Ouvir](https://img.shields.io/badge/▶_OUVIR-6D28D9?style=for-the-badge)](https://youtu.be/qv2uAFw2lDE) |
+| *"Fragmentos"* | *"Ghosting"* |
+| [![Ouvir](https://img.shields.io/badge/▶_OUVIR-6D28D9?style=for-the-badge)](https://youtu.be/VOZWXt1JQfk) | [![Ouvir](https://img.shields.io/badge/▶_OUVIR-6D28D9?style=for-the-badge)](https://somvibe.lnk.to/ab59090) |
 
 </div>
 
